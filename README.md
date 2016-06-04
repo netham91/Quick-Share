@@ -6,7 +6,7 @@ What it Does
 --
 You can use it to share a folder of your choice over the network. Whatever directory you will run this script from, that directory and all the contents will be shared over the network.
 
-How to Use
+How to Use Quickly
 --
 1. Download quickshare.py to the folder you want to share over network.
 2. In shell, execute 
@@ -14,3 +14,10 @@ How to Use
 3. It will ask for port number. You can enter of your choice, else simply press enter, default is 8000.
 4. It gives you a URL, share that URL.
 
+How to Install and use everywhere
+--
+1. Download and run "sudo make install"
+2. Now go to the folder you want to share over the network.
+3. Type quickshare in the command line
+4. It will ask for port number. You can enter of your choice, else simply press enter, default is 8000.
+5. It gives you a URL, share that URL.
